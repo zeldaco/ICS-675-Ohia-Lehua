@@ -1,0 +1,51 @@
+# Large data files
+*.gbff
+metrosideros_chr1.fasta
+metrosideros_chitinase_region.fasta
+Genome_Data/Metrosideros/metrosideros.gbff
+Genome_Data/Metrosideros/GCA_001662345.2_*
+metrosideros_chr1.fasta
+*.fasta.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# BLAST databases
+*.nhr
+*.nin
+*.nsq
+*.ndb
+*.not
+*.ntf
+*.nto
+*.njs
+
+# Test outputs
+*test*.png
+*test*.txt
+
+# HPC temporary files
+HPC_Output/*.out

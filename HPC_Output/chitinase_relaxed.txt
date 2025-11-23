@@ -1,0 +1,7 @@
+# TBLASTN 2.16.0+
+# Query: XP_010040215.1 basic endochitinase [Eucalyptus grandis]
+# Database: metrosideros_db
+# Fields: query id, subject id, % identity, alignment length, evalue, bit score, s. start, s. end
+# 1 hits found
+XP_010040215.1	Metrosideros_polymorpha_chr1	45.000	40	1.3	33.9	740461	740348
+# BLAST processed 1 queries
